@@ -1,0 +1,14 @@
+C:\Users\Windows 10\source\repos\EjemploAnotacionSolucion\EjemploAnotacion\bin\Debug\netcoreapp2.1\EjemploAnotacion.deps.json
+C:\Users\Windows 10\source\repos\EjemploAnotacionSolucion\EjemploAnotacion\bin\Debug\netcoreapp2.1\EjemploAnotacion.runtimeconfig.json
+C:\Users\Windows 10\source\repos\EjemploAnotacionSolucion\EjemploAnotacion\bin\Debug\netcoreapp2.1\EjemploAnotacion.runtimeconfig.dev.json
+C:\Users\Windows 10\source\repos\EjemploAnotacionSolucion\EjemploAnotacion\bin\Debug\netcoreapp2.1\EjemploAnotacion.dll
+C:\Users\Windows 10\source\repos\EjemploAnotacionSolucion\EjemploAnotacion\bin\Debug\netcoreapp2.1\EjemploAnotacion.pdb
+C:\Users\Windows 10\source\repos\EjemploAnotacionSolucion\EjemploAnotacion\obj\Debug\netcoreapp2.1\EjemploAnotacion.csprojAssemblyReference.cache
+C:\Users\Windows 10\source\repos\EjemploAnotacionSolucion\EjemploAnotacion\obj\Debug\netcoreapp2.1\EjemploAnotacion.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\EjemploAnotacionSolucion\EjemploAnotacion\obj\Debug\netcoreapp2.1\EjemploAnotacion.RazorAssemblyInfo.cache
+C:\Users\Windows 10\source\repos\EjemploAnotacionSolucion\EjemploAnotacion\obj\Debug\netcoreapp2.1\EjemploAnotacion.RazorAssemblyInfo.cs
+C:\Users\Windows 10\source\repos\EjemploAnotacionSolucion\EjemploAnotacion\obj\Debug\netcoreapp2.1\EjemploAnotacion.AssemblyInfoInputs.cache
+C:\Users\Windows 10\source\repos\EjemploAnotacionSolucion\EjemploAnotacion\obj\Debug\netcoreapp2.1\EjemploAnotacion.AssemblyInfo.cs
+C:\Users\Windows 10\source\repos\EjemploAnotacionSolucion\EjemploAnotacion\obj\Debug\netcoreapp2.1\EjemploAnotacion.RazorTargetAssemblyInfo.cache
+C:\Users\Windows 10\source\repos\EjemploAnotacionSolucion\EjemploAnotacion\obj\Debug\netcoreapp2.1\EjemploAnotacion.dll
+C:\Users\Windows 10\source\repos\EjemploAnotacionSolucion\EjemploAnotacion\obj\Debug\netcoreapp2.1\EjemploAnotacion.pdb
